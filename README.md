@@ -36,3 +36,6 @@ Q4 uploads achieved 15% higher subscriber growth compared to Q1.
 Increasing upload frequency from 6 to 10 videos per month boosted average views by 25%.
 📉 YoY views grew +22% in 2024 compared to 2023.
 Like-to-Dislike ratio improved from 8:1 in 2021 to 12:1 in 2024.
+
+Screenshot
+https://github.com/BilalTheAnalyst/Youtube-Analysis-Dashboard/blob/main/YoutubeReport.png
